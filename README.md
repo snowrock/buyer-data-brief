@@ -23,3 +23,7 @@ Native controls have labels, errors identify the relevant fields, and keyboard u
 ## Copyright
 
 Copyright 2026 Snowrock, LLC. All rights reserved. This repository does not grant a separate open-source license or rights to SnowRock’s name or other company assets. Use of GitHub’s normal viewing and forking features remains subject to GitHub’s terms.
+
+## Research: AI data trial terms
+
+[Read the twelve-document pilot study](https://snowrock.github.io/buyer-data-brief/research/ai-data-trial-terms-2026/), inspect the method and download the source-linked CSV. Published by SnowRock, October 26, 2026.
